@@ -1,0 +1,7 @@
+web browser
+webbroswer.open(google.com")
+how to call api in python 
+open wlla scene 
+Ip api 
+openweather website
+Nlp
